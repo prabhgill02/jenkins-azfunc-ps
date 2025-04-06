@@ -11,7 +11,7 @@ namespace MyHelloWorldFuncApp
         public static IActionResult Run(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequest req)
         {
-            return new OkObjectResult("Welcome to Azure Functions!");
+            return new OkObjectResult("Welcome to Azure Functions");
         }
     }
 }
