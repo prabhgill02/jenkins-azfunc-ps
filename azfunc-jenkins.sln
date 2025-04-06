@@ -1,24 +1,26 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.2.0
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelloWorldFuncApp", "MyHelloWorldFuncApp\MyHelloWorldFuncApp.csproj", "{68757589-168B-FFBD-1C3B-1D5248D3EC92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelloWorldFuncApp", "MyHelloWorldFuncApp\MyHelloWorldFuncApp.csproj", "{A6A619B9-0828-4606-8B3C-71B8C65B3067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelloWorldFunctApp.Tests", "MyHelloWorldFunctApp.Tests\MyHelloWorldFunctApp.Tests.csproj", "{9D31EB57-D2D7-4F9E-B922-E7BE7F1692B5}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{68757589-168B-FFBD-1C3B-1D5248D3EC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68757589-168B-FFBD-1C3B-1D5248D3EC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68757589-168B-FFBD-1C3B-1D5248D3EC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68757589-168B-FFBD-1C3B-1D5248D3EC92}.Release|Any CPU.Build.0 = Release|Any CPU
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution 
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1D0DD53C-3F33-4967-8935-959DEFB74C0C}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A619B9-0828-4606-8B3C-71B8C65B3067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A619B9-0828-4606-8B3C-71B8C65B3067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A619B9-0828-4606-8B3C-71B8C65B3067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A619B9-0828-4606-8B3C-71B8C65B3067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D31EB57-D2D7-4F9E-B922-E7BE7F1692B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D31EB57-D2D7-4F9E-B922-E7BE7F1692B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D31EB57-D2D7-4F9E-B922-E7BE7F1692B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D31EB57-D2D7-4F9E-B922-E7BE7F1692B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
