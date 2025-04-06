@@ -18,6 +18,6 @@ public class MyHttpFunctionTests
         // Assert
         Assert.NotNull(result);
         Assert.Equal(200, result.StatusCode);
-        Assert.Equal("Welcome to Azure Functions!", result.Value);
+        Assert.Equal("Welcome to Azure Functions", result.Value);
     }
 }
