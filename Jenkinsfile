@@ -1,10 +1,13 @@
 pipeline {
-    agent any // Runs on any agent
+    agent any // Runs on any available agent
 
     environment {
         AZURE_FUNCTIONAPP_PACKAGE_PATH = 'MyHelloWorldFuncApp' // Path to the function app project
         DOTNET_VERSION = '8.0.407' // .NET version
-
+        AZURE_CLIENT_ID = credentials('AZURE_CLIENT_ID') // Referencing Jenkins credentials for service principal
+        AZURE_CLIENT_SECRET = credentials('AZURE_CLIENT_SECRET') // Referencing Jenkins credentials for service principal
+        AZURE_SUBSCRIPTION_ID = credentials('AZURE_SUBSCRIPTION_ID') // Referencing Jenkins credentials for subscription ID
+        AZURE_TENANT_ID = credentials('AZURE_TENANT_ID') // Referencing Jenkins credentials for service principal
         RESOURCE_GROUP = 'rg_azjenki' // Azure Resource Group
         FUNCTION_APP_NAME = 'MyHelloWorldFuncApp' // Azure Function App Name
     }
