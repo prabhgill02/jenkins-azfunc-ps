@@ -64,3 +64,4 @@ F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\o
 F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\WorkerExtensions\obj\MCD\Release\net8.0\refint\Microsoft.Azure.Functions.Worker.Extensions.dll
 F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\WorkerExtensions\obj\MCD\Release\net8.0\Microsoft.Azure.Functions.Worker.Extensions.pdb
 F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\WorkerExtensions\obj\MCD\Release\net8.0\ref\Microsoft.Azure.Functions.Worker.Extensions.dll
+F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\WorkerExtensions\obj\MCD\Release\net8.0\WorkerExtensions.sourcelink.json

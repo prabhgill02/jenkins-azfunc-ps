@@ -152,3 +152,4 @@ F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\o
 F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\MyHelloWorldFunctApp.Tests.pdb
 F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\MyHelloWorldFunctApp.Tests.genruntimeconfig.cache
 F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\ref\MyHelloWorldFunctApp.Tests.dll
+F:\CanProfPersonal\3.Projects\GitHub\azfunc-jenkins\MyHelloWorldFunctApp.Tests\obj\MCD\Debug\net8.0\MyHelloWorldFunctApp.Tests.sourcelink.json
